@@ -1,5 +1,5 @@
 # ROBOTIC_ARM_LASER_CNC_WITH_ENCODER-MOTORS
-https://github.com/user-attachments/assets/c3ca6db3-7c59-490e-a5ef-af3ae44754a9
+<img width="607" height="795" alt="Image" src="https://github.com/user-attachments/assets/99ebd975-342b-4b18-8621-a573c393468d" />
 ## INTERFACE
 ![Image](https://github.com/user-attachments/assets/028a38c8-482a-4771-ab05-c7e78548f547)
 ## ARM ENGRAVING
